@@ -3,7 +3,7 @@
 
 The game looks like below:
 
-![screenshot](https://github.com/onesuper/geekmusic/blob/master/screenshot.jpg)
+![screenshot](https://github.com/onesuper/geekmusic/raw/master/screenshot.jpg)
 
 
 The key is dropping down along the socket and
