@@ -13,3 +13,6 @@ of the socket.
 
 This program is written in ancient DOS assembly languange
 and is tested in DOSBOX.
+
+
+The default music is Happy Birthday to You. And you can replace it with Happy Song~ 
